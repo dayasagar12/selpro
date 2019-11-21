@@ -5,6 +5,7 @@
     <classes>
       <class name="TestCases.hotelSearch">
         <methods>
+          <include name="start_browser"/>
           <include name="searchHotel"/>
         </methods>
       </class> <!-- TestCases.hotelSearch -->

@@ -31,9 +31,5 @@ public class hotelSearch extends base_myselpro{
 	}
 	
 	
-	@AfterTest
-	public void teardown() {
-		driver.close();
-	}
 
 }
